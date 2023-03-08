@@ -1,0 +1,5 @@
+# python virtual environment
+.env/
+
+# Python Byte-compiled / optimized / DLL files
+__pycache__/
